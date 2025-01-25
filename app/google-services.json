@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40788207301",
+    "project_id": "nestify-10674",
+    "storage_bucket": "nestify-10674.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40788207301:android:9b653ff7915b24b8b972ac",
+        "android_client_info": {
+          "package_name": "com.example.torento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiQRnV4e4AwPrpZVYJXtF_-AKCi9Fph0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
